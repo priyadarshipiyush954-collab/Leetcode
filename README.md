@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0039-combination-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## String
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
