@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0039-combination-sum) |
+| [0068-text-justification](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0068-text-justification) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## String
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0068-text-justification) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
