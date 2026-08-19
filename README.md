@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0039-combination-sum) |
 | [0068-text-justification](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0068-text-justification) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
