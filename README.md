@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
