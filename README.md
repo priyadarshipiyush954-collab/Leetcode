@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0016-3sum-closest) |
+| [0234-palindrome-linked-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
