@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0068-text-justification) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0039-combination-sum) |
 ## Math
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
