@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0065-valid-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0016-3sum-closest) |
 | [0234-palindrome-linked-list](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyadarshipiyush954-collab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
